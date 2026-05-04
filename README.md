@@ -5,21 +5,24 @@ A full-stack AI system that allows users to draw digits and receive real-time pr
 ---
 
 Learning Curve Accuracy
-D:\digit-classifier-ai\Figure_1.png
+<img width="640" height="480" alt="accuracy_curve" src="https://github.com/user-attachments/assets/d133066a-de65-4f07-a1e3-0db1c30d46e8" />
+
 ---
 ### 🎨 Drawing Canvas + Prediction
 Learning Curve Loss
-D:\digit-classifier-ai\Figure_2.png
+<img width="640" height="480" alt="loss_curve" src="https://github.com/user-attachments/assets/82da5a8c-3b1f-4587-996b-fd83a8cb3c7c" />
+
 
 ## 📊 Model Performance
 
 ### 🔍 Confusion Matrix
-D:\digit-classifier-ai\confusion matrix.png
+<img width="800" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/407aa853-7a3c-4295-be12-d34557e2fb35" />
+
 
 ---
 
 ### ❌ Wrong Predictions
-D:\digit-classifier-ai\outputs\wrong_predictions.png
+<img width="1000" height="500" alt="wrong_predictions" src="https://github.com/user-attachments/assets/7e747180-8088-4720-87c2-11fd53855ec4" />
 
 ---
 
